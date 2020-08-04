@@ -3,3 +3,8 @@ call_backs.py
 bokehJS.ipynb
 input_data/*
 procedure.txt
+flaskapp/env/*
+models/*
+output/*
+spectralcluster.py
+search_engine.ipynb
